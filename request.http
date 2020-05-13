@@ -1,0 +1,11 @@
+GET https://jsonplaceholder.typicode.com/todos/1
+
+###
+
+POST https://jsonplaceholder.typicode.com/todos
+Content-Type: application/application/json
+[{
+    "userId": 1,
+    "title": "delectus aut autem XXXXXXXXXXX",
+    "completed": false
+}]
